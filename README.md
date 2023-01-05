@@ -12,7 +12,11 @@
 
 ## Why does this exist
 
+I'm tired of having to set up new repos and having slightly different settings.
+
 ## Usage
+
+Use this repo as a template when creating a repo on github.
 
 ```
 Usage:
